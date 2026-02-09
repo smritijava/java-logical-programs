@@ -5,8 +5,6 @@ Each program focuses on logic building, condition handling, loops, strings, arra
 
 These programs were written as part of my **Class 11–12 Computer Science practice** and personal learning.
 
----
-
 ## Programs Included
 
 ### AgeCalculator.java
@@ -29,7 +27,6 @@ These programs were written as part of my **Class 11–12 Computer Science pract
 - Sorts words in alphabetical order
 - Uses string comparison and array processing
 
-
 ## Concepts Used
 - Core Java
 - Loops and conditional statements
@@ -37,18 +34,8 @@ These programs were written as part of my **Class 11–12 Computer Science pract
 - Arrays and matrices
 - Logical problem solving
 
-
 ## Purpose of This Repository
-- Practice and improve Java logic
-- Build a strong foundation in programming
-- Showcase logical thinking for academic and college applications
-
-
-## Future Improvements
-- Adding comments for better readability
-- Optimizing logic where possible
-- Adding more advanced Java programs
-
+This repository contains Java programs created to practice logical problem-solving and strengthen core programming concepts.
 
 ## Author
 **Smriti Gupta**  
